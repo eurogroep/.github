@@ -1,12 +1,4 @@
-## Hi there 👋
+# Lowpad is dedicated to revolutionizing intralogistics through advanced autonomous mobile robot solutions. By combining Lowpad AMRs with our intelligent software, we’re empowering our customers to simplify their operations, enhance their logistics, and optimize their product movements and picking operations.
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img width="888" height="1156" alt="image" src="https://github.com/user-attachments/assets/b6282ef3-7c8c-4aa8-81fa-a367c4a82c45" />
