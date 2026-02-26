@@ -1,1 +1,0 @@
-# Lowpad is dedicated to revolutionizing intralogistics through advanced autonomous mobile robot solutions. By combining Lowpad AMRs with our intelligent software, we’re empowering our customers to simplify their operations, enhance their logistics, and optimize their product movements and picking operations.
